@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Haroon Hublikar</h1>
-<h3 align="center">A passionate AI/ML, cloud developer from India.</h3>
+<h3 align="center">A passionate Data Engineer and CV Geek.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haroonhublikar12&label=Profile%20views&color=0e75b6&style=flat" alt="haroonhublikar12" /> </p>
 
-- 🔭 I’m currently working on **Algo Trading automation for crypto exchanges.**
+- 🔭 I’m currently working on **Perception and CV for Multimodal Robots.**
 
 - 🌱 I’m currently learning **Keras, AWS.**
 
-- 💬 Ask me about **Pytorch, Python, Tensorflow, Advance Neural Networks.**
+- 💬 Ask me about **Pytorch, Python, Tensorflow, SQL.**
 
 - 📫 How to reach me **haroonhublikar22@gmail.com**
 
